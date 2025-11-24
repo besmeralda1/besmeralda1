@@ -15,7 +15,7 @@ I'm passionate about combining my practical problem-solving skills with technica
 ## 💼 Professional Background
 
 **Gero Flooring LLC** | 6 Years  
-*Project Coordinator & Technical Support*
+*Project Coordinator & Field Technician*
 
 - Managed renovation projects for upscale residential and commercial contracts
 - Troubleshot network hardware and maintained IT infrastructure
@@ -40,8 +40,9 @@ I'm passionate about combining my practical problem-solving skills with technica
 **Infrastructure & Systems:**
 - Ticketing systems (osTicket)
 - Server hardware troubleshooting
-- Cloud infrastructure (Azure, AWS fundamentals)
+- Cloud infrastructure (Azure, AWS fundamentals,OCI)
 - IT asset management
+- PC building, structured cabling, Cable management
 
 ## 🚀 Featured Projects
 
@@ -80,13 +81,13 @@ Deployed and configured virtual machines in Azure to practice cloud infrastructu
 - **Actively seeking:** Data Center Technician roles in the Dallas-Fort Worth area
 - **Target companies:** AWS, Oracle, Microsoft, and other hyperscalers
 - **Career goal:** Progress from DC tech to Cloud Security Engineer
-- **Learning:** Advanced Linux administration, AWS services, and automation scripting
+- **Learning:** Advanced Linux administration (taking a Cisco linux course right now), AWS services (Using AWS free courses), and automation scripting (Learning Python on Youtube).
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/bobbs-esmeralda-475192238)
+- **LinkedIn:** [Bobbs LinkedIn](www.linkedin.com/in/bobbs-esmeralda-475192238)
 - **Location:** Plano, Texas (DFW Area)
-- **Email:** your.email@example.com
+- **Email:** bobbsesmeralda100@gmail.com
 
 ## 🎮 Beyond Tech
 
