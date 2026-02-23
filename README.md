@@ -77,10 +77,10 @@ Deployed and configured virtual machines in Azure to practice cloud infrastructu
 
 ## 🎯 Current Focus
 
-- **Actively seeking:** Data Center Technician roles in the Dallas-Fort Worth area
-- **Target companies:** AWS, Oracle, Microsoft, and other hyperscalers
-- **Career goal:** Progress from DC tech to Cloud Security Engineer
-- **Learning:** Advanced Linux administration (taking a Cisco linux course right now), AWS services (Using AWS free courses), and automation scripting (Learning Python on Youtube).
+- **Actively seeking:** IT and cloud infrastructure roles in the Dallas-Fort Worth area
+- **Actively Learning:** Expanding my hands-on skills on the Microsoft Azure platform through real-world labs and projects. Also implementing Debian Linux administration.
+- **Career goal:** Build a strong technical foundation in cloud infrastructure and grow into cloud security engineering
+- **Next Certification:** Microsoft Azure Administrator (AZ-104) — Expected April 2025 >> Certified Kubernetes Administrator (CKA) — Following AZ-104 completion
 
 ## 📫 Let's Connect
 
