@@ -1,10 +1,8 @@
 # Hi, I'm Bobbs 👋
 
 ## About Me
-
-I'm a 22-year-old tech professional based in **Plano, Texas**, transitioning from 6 years of hands-on experience in construction and home remodeling into **cloud infrastructure and data center operations**. My background includes extensive work with network hardware troubleshooting, asset management, and project coordination at my family's home remodeling company (Gero Flooring LLC).
-
-I'm passionate about combining my practical problem-solving skills with technical expertise to build a career in **cloud security engineering**, starting with data center technician roles at companies like AWS and Oracle in the DFW area.
+I'm a 22-year-old tech enthusiast based in Plano, Texas with a deep passion for technology that goes back to building custom PCs at age 12. Over the past 6 years, I've been gaining real-world technical experience at Gero Flooring LLC, where I wore many hats — handling network hardware troubleshooting, asset management, inventory tracking, and project coordination, all while serving as the go-to person for general IT and tech support across the entire company.
+I'm now channeling that hands-on foundation into a full-time career in cloud infrastructure and IT operations. I hold CompTIA Security+ and Network+ certifications, along with a Google Cybersecurity and Oracle Cloud Infrastructure Foundations certification, and I'm driven by a genuine excitement for solving complex technical problems and building reliable systems. I thrive in fast-paced environments and love finding ways to make infrastructure smarter, more secure, and more efficient.
 
 ## 🎓 Certifications
 
