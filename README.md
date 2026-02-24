@@ -55,7 +55,7 @@ Built a fully functional data center ticketing system using osTicket on Azure VM
 - User role management
 - Email integration
 
-### [Network Troubleshooting Lab](https://github.com/besmeralda1/network-troubleshooting-lab)
+### [Network Troubleshooting Lab](https://github.com/besmeralda1/NETWORK_TROUBLESHOOTING_LAB)
 Created hands-on scenarios demonstrating systematic network troubleshooting using command-line tools and analysis techniques.
 
 **Tech Stack:** Azure VMs, Linux, Network Security Groups  
@@ -65,15 +65,15 @@ Created hands-on scenarios demonstrating systematic network troubleshooting usin
 - Network connectivity diagnostics
 - Security group configuration
 
-### [Azure Cloud Infrastructure Lab](https://github.com/besmeralda1/azure-cloud-lab)
-Deployed and configured virtual machines in Azure to practice cloud infrastructure management and security best practices.
+### [SSH Remote Health Monitor Lab](https://github.com/besmeralda1/SSH_HEALTH_LAB)
+Built a Python automation script that connects to a remote Linux machine via SSH and performs live system diagnostics, simulating real-world data center remote monitoring workflows.
 
-**Tech Stack:** Microsoft Azure, Linux VMs, Network Security Groups  
+**Tech Stack:** Python 3, OpenSSH, macOS, LMDE 7 Linux  
 **Key Features:**
-- VM deployment and configuration
-- Network security rule implementation
-- Resource group management
-- Basic cloud security practices
+- Passwordless SSH key authentication
+- Automated disk, memory, and CPU health checks
+- Remote network connectivity diagnostics
+- Cross-platform remote command execution
 
 ## 🎯 Current Focus
 
