@@ -84,7 +84,7 @@ Built a Python automation script that connects to a remote Linux machine via SSH
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Bobbs LinkedIn](www.linkedin.com/in/bobbs-esmeralda-475192238)
+- **LinkedIn:** www.linkedin.com/in/bobbs-esmeralda-475192238
 - **Location:** Plano, Texas (DFW Area)
 - **Email:** bobbsesmeralda100@gmail.com
 
