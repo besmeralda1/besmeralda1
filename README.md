@@ -25,7 +25,7 @@ I'm now channeling that hands-on foundation into a full-time career in cloud inf
 ## 🔧 Technical Skills
 
 **Operating Systems & Tools:**
-- Linux (Ubuntu, CentOS)
+- Linux (Ubuntu,CentOS,Debian)
 - Windows Server
 - PowerShell & Bash scripting
 - Azure Cloud Platform
