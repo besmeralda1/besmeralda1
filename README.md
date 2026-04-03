@@ -29,6 +29,7 @@ I'm now channeling that hands-on foundation into a full-time career in cloud inf
 - Windows Server
 - PowerShell & Bash scripting
 - Azure Cloud Platform
+- Python
 
 **Networking & Security:**
 - TCP/IP, DNS, DHCP
