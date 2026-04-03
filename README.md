@@ -100,7 +100,7 @@ A local web dashboard that tracks Claude Code token usage against the Pro window
 - **Actively seeking:** IT and cloud infrastructure roles in the Dallas-Fort Worth area
 - **Actively Learning:** Expanding my hands-on skills on the Microsoft Azure platform through real-world labs and projects. Also implementing Debian Linux administration.
 - **Career goal:** Build a strong technical foundation in cloud infrastructure and grow into cloud security engineering
-- **Next Certification:** Microsoft Azure Administrator (AZ-104) — Expected April 2025 >> Certified Kubernetes Administrator (CKA) — Following AZ-104 completion
+- **Next Certification:** Microsoft Azure Administrator (AZ-104) >> Certified Kubernetes Administrator (CKA) — Following AZ-104 completion
 
 ## 📫 Let's Connect
 
